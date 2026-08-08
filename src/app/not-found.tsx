@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Logo from "@/assets/icons/Logo.svg";
+import Logo from "@/assets/icons/logo.svg";
 import { Button } from "@/components/ui/button";
 
 const NotFound = () => {

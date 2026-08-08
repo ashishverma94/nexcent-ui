@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { navLinks } from "@/data/data";
-import Logo from "@/assets/icons/Logo.svg";
+import Logo from "@/assets/icons/logo.svg";
 import { Button } from "@/components/ui/button";
 
 

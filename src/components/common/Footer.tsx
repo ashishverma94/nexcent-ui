@@ -1,8 +1,8 @@
 import Link from "next/link";
-import Logo from "@/assets/icons/Logo.svg";
+import Logo from "@/assets/icons/logo.svg";
 import SendIcon from "@/assets/icons/send.svg";
 import { socialIcon, websiteLinks } from "@/data/data";
-
+ 
 const Footer = () => {
   return (
     <div className="flex py-16 px-4 xl:px-41.25 gap-16 lg:gap-15 xl:gap-31.25 max-lg:items-center justify-center lg:justify-between flex-col lg:flex-row w-full bg-neutral-black">
